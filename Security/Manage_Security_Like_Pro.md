@@ -3,13 +3,13 @@
 As DevSecOps engineers, one of the primary resposibilities is to maintain security of your Kubernetes clusters and the containers.
 Here are some of the mandatory things to consider.
 
-1. [Secure your API server](https://github.com/bvishal021/Kubernetes/blob/main/Security/Manage_Security_Like_Pro.md#secure-your-api-server)
-2. [RBAC](https://github.com/bvishal021/Kubernetes/blob/main/Security/Manage_Security_Like_Pro.md#rbac)
-3. [Network Policies](https://github.com/bvishal021/Kubernetes/blob/main/Security/Manage_Security_Like_Pro.md#network-policies)
-4. [Encrypt data at rest](https://github.com/bvishal021/Kubernetes/blob/main/Security/Manage_Security_Like_Pro.md#encrypt-data-at-rest)
-5. [Secure Container Images](https://github.com/bvishal021/Kubernetes/blob/main/Security/Manage_Security_Like_Pro.md#secure-container-images)
-6. [Cluster Monitoring](https://github.com/bvishal021/Kubernetes/blob/main/Security/Manage_Security_Like_Pro.md#cluster-monitoring)
-7. [Upgrades](https://github.com/bvishal021/Kubernetes/blob/main/Security/Manage_Security_Like_Pro.md#upgrades)
+1. [Secure your API server](https://rb.gy/43pows)
+2. [RBAC](https://rb.gy/md1w56)
+3. [Network Policies](https://rb.gy/ksmo04)
+4. [Encrypt data at rest](https://rb.gy/mbygph)
+5. [Secure Container Images](https://rb.gy/izgvyb)
+6. [Cluster Monitoring](https://shorturl.at/lc2TO)
+7. [Upgrades](https://shorturl.at/9daLX)
 
 ## Secure your API server
 The Kubernetes API server is a critical component of the cluster and should be secured with strong authentication and authorization mechanisms. 
