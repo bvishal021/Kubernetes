@@ -3,13 +3,13 @@
 As DevSecOps engineers, one of the primary resposibilities is to maintain security of your Kubernetes clusters and the containers.
 Here are some of the mandatory things to consider.
 
-1. [Secure your API server](https://rb.gy/43pows)
-2. [RBAC](https://rb.gy/md1w56)
-3. [Network Policies](https://rb.gy/ksmo04)
-4. [Encrypt data at rest](https://rb.gy/mbygph)
-5. [Secure Container Images](https://rb.gy/izgvyb)
-6. [Cluster Monitoring](https://shorturl.at/lc2TO)
-7. [Upgrades](https://shorturl.at/9daLX)
+1. [Secure your API server]
+2. [RBAC]
+3. [Network Policies]
+4. [Encrypt data at rest]
+5. [Secure Container Images]
+6. [Cluster Monitoring]
+7. [Upgrades]
 
 ## Secure your API server
 The Kubernetes API server is a critical component of the cluster and should be secured with strong authentication and authorization mechanisms. 
